@@ -28,3 +28,13 @@ void main(List<String> arguments) {
   print(capital);// Output: {Jakarta: Indonesia, London: England, Tokyo: Japan, New Delhi: India}
 
 }
+
+/*
+* NOTE
+* Terdapat beberapa properti yang tersedia pada Map, antara lain:
+1. keys, untuk menampilkan seluruh key yang ada di dalam Map.
+2. values, untuk mengetahui seluruh nilai yang ada di dalam Map.
+3. clear(), untuk menghapus seluruh key-value yang ada di dalam Map.
+* */
+
+
